@@ -1,4 +1,5 @@
 //https://www.youtube.com/watch?v=h0M_gp-sDLY
+//me olvide de nombrarlo en el video, pero en mi codigo fuente llamo a mi clase juego con sus diversos metodos para asi poder iniciar mi juego
 
 //TP4
 
