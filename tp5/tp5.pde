@@ -1,4 +1,4 @@
-//link de video explicativo:
+//link de video explicativo: https://youtu.be/opMczO2ZnAk
 //Lajoinie, Maria Delfina
 //Comision 2
 //Profes: Matias Jauregui Lorda, Tobias Albarrosa.
